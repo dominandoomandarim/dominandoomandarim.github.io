@@ -1,0 +1,11 @@
+{
+    "ngin.databases": [
+        {
+            "name": "laser",
+            "serverAddress": "http://35.188.79.125:51",
+            "userName": "fernanda nicola",
+            "main": true,
+            "enabled": false
+        }
+    ]
+}
